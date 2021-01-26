@@ -1,5 +1,5 @@
 # oci-find-tagged
-List the names and ids of all compute instances that are tagged with user-specified defined tags.
+List the names and ids of all compute instances in an Oracle Cloud Infrastructure (OCI) tenancy that are tagged with user-specified defined tags.
 
 The options for command line arguments are as follows:
 <pre>
