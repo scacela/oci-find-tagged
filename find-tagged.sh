@@ -92,7 +92,7 @@ Flag                          Description                                       
 
 Sample run:
 
-$ ./find-tagged -n Oracle-Tag -k CreatedBy -v samuel -c samuel -r us-ashburn-1 us-phoenix-1
+$ $0 -n Oracle-Tag -k CreatedBy -v samuel -c samuel -r us-ashburn-1 us-phoenix-1
 
 EOF
 )
